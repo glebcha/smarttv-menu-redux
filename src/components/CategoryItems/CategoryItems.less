@@ -1,0 +1,57 @@
+@import '../../styles/variables.less';
+
+.category_item {
+    overflow: hidden;
+    border: 1px solid #28576d;
+    .border-box;
+
+    h4 {
+        font-family: 'proxima-bold';
+        font-size: 3em;
+        margin: 0;
+        .relative;
+        .normal;
+        .nowrap;
+    }
+
+    .category_item__image {
+        width: auto;
+        height: 24em;
+        .text-center;
+
+        img {
+            .inline-block;
+        }
+    }
+
+    .category_item__info {
+        padding: 1em;
+        color: @white;
+        background: linear-gradient(0deg, #1c1c1a 0%, #323230 100%);
+    }
+
+    .category_item__info__extra {
+        .clearfix;
+
+        .notify {
+            height: auto;
+            min-height: 2.4em;
+        }
+
+        .estimated {
+            font-size: 2.4em;
+            .text-right;
+        }
+
+        .reminder.active {
+            .block;
+            .relative;
+            bottom: -.5em;
+            width: 30px;
+            height: 31px;
+            background-image: data-uri('../../styles/images/reminder.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+    }
+}

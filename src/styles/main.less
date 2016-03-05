@@ -1,0 +1,39 @@
+@import "variables.less";
+
+// Fonts
+@font-face {
+  font-family: 'proxima-bold';
+  src: url('./fonts/proximanova-bold-webfont.otf')  format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'proxima';
+  src: url('./fonts/proximanova-regular-webfont.otf')  format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+// General
+html,
+body,
+.wrapper {
+  .fullheight;
+}
+body {
+  .relative;
+  font-family: @tahoma;
+  font-size: 62.5%;
+  margin: 0;
+  padding: 0;
+}
+img {
+  width: auto;
+  max-width: 100%;
+  height: 100%;
+}
+.container {
+  .clearfix;
+  padding: 0.5rem;
+}
