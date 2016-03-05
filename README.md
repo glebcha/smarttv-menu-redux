@@ -2,6 +2,9 @@ TV App
 ==========
 ![tvapp](https://infinit.io/_/9NDLfFb.jpg)
 
+Use keyboard arrow keys - up/down to list vertical categories and left/right
+to choose film.
+
 ###How to run:
 1 - Execute 'npm start'
 	to run in development mode (open localhost:3000).
