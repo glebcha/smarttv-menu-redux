@@ -1,5 +1,3 @@
-export const API_ROOT = '/'
-
 export const SELECT_CATEGORY = 'SELECT_CATEGORY'
 
 export const REQUEST_PLAYLIST = 'REQUEST_PLAYLIST'

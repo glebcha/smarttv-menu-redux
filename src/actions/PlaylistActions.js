@@ -1,6 +1,6 @@
 import request from 'superagent-es6-promise'
 import {
-    API_ROOT, REQUEST_PLAYLIST,
+    REQUEST_PLAYLIST,
     RECEIVE_PLAYLIST, PLAYLIST_ERROR
 } from '../utils/constants'
 
@@ -28,7 +28,7 @@ export function fetchPlaylist() {
     return dispatch => {
         dispatch(requestPlaylist())
         request
-        .get(`${ API_ROOT }ajax/mock.json`)
+        .get(`ajax/mock.json`)
         .then(res => dispatch(receivePlaylist(JSON.parse(res.text))))
         .catch(err => dispatch(invalidPlaylist(
             err.body ? err.body.detail : err.message
