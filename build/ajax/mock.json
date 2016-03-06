@@ -9,7 +9,7 @@
             "title": "Малефисента",
             "category": "allday",
             "reminder": true,
-            "preview": "/img/malefisenta.jpg",
+            "preview": "img/malefisenta.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         },
         {
@@ -19,7 +19,7 @@
             "title": "Высоцкий. Спасибо, что живой.",
             "category": "allday",
             "reminder": false,
-            "preview": "/img/visotsky.jpg",
+            "preview": "img/visotsky.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         },
         {
@@ -29,7 +29,7 @@
             "title": "Пираты Карибского моря.",
             "category": "allday",
             "reminder": false,
-            "preview": "/img/pirates.jpg",
+            "preview": "img/pirates.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         },
         {
@@ -39,7 +39,7 @@
             "title": "Троя",
             "category": "allday",
             "reminder": true,
-            "preview": "/img/troy.jpg",
+            "preview": "img/troy.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         },
         {
@@ -49,7 +49,7 @@
             "title": "Мемуары гейши",
             "category": "allday",
             "reminder": false,
-            "preview": "/img/memoirs.jpg",
+            "preview": "img/memoirs.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         },
         {
@@ -59,7 +59,7 @@
             "title": "Викинги",
             "category": "upcoming",
             "reminder": true,
-            "preview": "/img/vikings.jpg",
+            "preview": "img/vikings.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         },
         {
@@ -69,7 +69,7 @@
             "title": "Сумерки. Сага затмение.",
             "category": "upcoming",
             "reminder": true,
-            "preview": "/img/twilight.jpg",
+            "preview": "img/twilight.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         },
         {
@@ -79,7 +79,7 @@
             "title": "Хоббит",
             "category": "upcoming",
             "reminder": true,
-            "preview": "/img/hobbit.jpg",
+            "preview": "img/hobbit.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         },
         {
@@ -89,7 +89,7 @@
             "title": "Алиса в стране чудес",
             "category": "upcoming",
             "reminder": false,
-            "preview": "/img/alice.jpg",
+            "preview": "img/alice.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         },
         {
@@ -99,7 +99,7 @@
             "title": "Легион",
             "category": "upcoming",
             "reminder": false,
-            "preview": "/img/legion.jpg",
+            "preview": "img/legion.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         },
         {
@@ -109,7 +109,7 @@
             "title": "Игра престолов",
             "category": "userchoice",
             "reminder": true,
-            "preview": "/img/thrones.jpg",
+            "preview": "img/thrones.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         },
         {
@@ -119,7 +119,7 @@
             "title": "Голодные игры",
             "category": "userchoice",
             "reminder": true,
-            "preview": "/img/games.jpg",
+            "preview": "img/games.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         },
         {
@@ -129,7 +129,7 @@
             "title": "Тор",
             "category": "userchoice",
             "reminder": true,
-            "preview": "/img/thor.jpg",
+            "preview": "img/thor.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         },
         {
@@ -139,7 +139,7 @@
             "title": "Аватар",
             "category": "userchoice",
             "reminder": true,
-            "preview": "/img/avatar.jpg",
+            "preview": "img/avatar.jpg",
             "url": "http://cdn-fms.rbs.com.br/vod/hls_sample1_manifest.m3u8"
         }
     ]
