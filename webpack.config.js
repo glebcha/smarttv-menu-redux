@@ -11,7 +11,7 @@ const env = process.env.NODE_ENV
 const DEV = env === 'development'
 
 const webpackConfig = {
-    devtool: DEV ? 'cheap-module-eval-source-map' : null,
+    devtool: DEV ? '#source-map' : null,
     entry: ['./src/index'],
     output: {
         path: path.join(__dirname, 'build'),
